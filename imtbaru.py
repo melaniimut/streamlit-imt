@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_option_menu import option_menu
 
 # Fungsi untuk menghitung BMI
 def calculate_bmi(weight, height):
